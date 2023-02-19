@@ -1,0 +1,10 @@
+.section {
+    height: 30px;
+    background-color: blue;
+}
+.search-form {
+    display: flex;
+justify-content: center;
+padding-top: 5px;
+gap: 10px;
+}
