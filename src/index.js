@@ -1,2 +1,2 @@
 import {Notify} from 'notiflix';
-import searchImages from "./searchImages";
+import fetchArticles from "./searchImagesApi";
